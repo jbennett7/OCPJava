@@ -6,7 +6,7 @@ class Capybara extends Rodent {}
 public class Casting {
     public static void main(String[] args) {
         Fish fish = new Fish();
-        //Bird bird = (Fish)fish; // DOES NOT COMPILE
+        //Bird bird = (Fish)bird; // DOES NOT COMPILE
 
         Rodent rodent = new Rodent();
         //Capybara capybara = (Capybara)rodent; // Throws ClassCastException at
