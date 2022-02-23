@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class MyArrayList {
+public class Summary {
     public static void main(String[] args) {
         ArrayListToarray();
         System.out.println();
