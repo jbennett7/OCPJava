@@ -30,7 +30,7 @@ Some operations, such as `reduce()` and `collect()`, require special considerati
 achieve optimal performance when applied to a parallel stream.
 
 ## Manage process with the `CyclicBarrier` class and the fork/join framework.
-The `CyclicBarrier class can be used to force a set of threads to wait until they are at
+The `CyclicBarrier` class can be used to force a set of threads to wait until they are at
 a certain stage of execution before continuing. The fork/join framework can be used to
 create a task that spawns additional tasks to solve problems recursively.
 
