@@ -15,7 +15,8 @@ the same shared object.
 
 ## Be able to apply the atomic classes.
 An atomic operation is one that occurs without interference by another thread. The
-`Concurrency` API includes a set of atomic classes that are similar to the primitive classes, except that they ensure that operations on them are performed atomically.
+`Concurrency` API includes a set of atomic classes that are similar to the primitive classes,
+except that they ensure that operations on them are performed atomically.
 
 ## Be able to use the concurrent collection classes.
 The `Concurrency` API includes numerous collections classes that include built-in support
